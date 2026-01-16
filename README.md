@@ -3,6 +3,7 @@ Kepler’s Eye is a distributed, near–real-time digital twin of Low Earth Orbi
 
 ## Proper Structure
 
+```
 keplers-eye/
 ├── .gitignore                     # (Functional) Git ignore rules
 ├── PROJECT_MASTERPLAN.md          # (Doc) The full idea/roadmap you pasted earlier
@@ -36,3 +37,6 @@ keplers-eye/
     ├── jobs/
     │   └── JOB_CATALOG.md         # (Doc) Explains what each Spark job calculates
     └── Dockerfile                 # (Functional) Spark container build
+    
+```
+
